@@ -1,4 +1,3 @@
-using Contracts;
 using Contracts.Events;
 using MassTransit;
 using ProducerApi.Dtos;

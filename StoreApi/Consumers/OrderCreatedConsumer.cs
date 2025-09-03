@@ -1,5 +1,3 @@
-using System.Text.Json;
-using Contracts;
 using Contracts.Events;
 using MassTransit;
 

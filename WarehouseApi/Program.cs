@@ -1,4 +1,3 @@
-using System.Reflection;
 using MassTransit;
 using ProducerApi.Configuration;
 using ProducerApi.Services;
